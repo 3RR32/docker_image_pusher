@@ -1,2 +1,2 @@
-oceanbase/miniob
+https://oceanbase.github.io/miniob/
 
